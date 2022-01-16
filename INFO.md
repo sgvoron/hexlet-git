@@ -1,1 +1,1 @@
-hello, hexlet
+next text
